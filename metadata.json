@@ -1,0 +1,5 @@
+{
+  "name": "Storybook AI Generator",
+  "description": "An AI-powered web application that automatically creates a 10-page illustrated picture book from a given topic or idea. It ensures character consistency across images and allows users to select from various art styles, with an option to download the final book.",
+  "requestFramePermissions": []
+}
